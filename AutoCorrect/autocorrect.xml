@@ -1,0 +1,135 @@
+<w:docPart>
+    <w:docPartPr>
+        <w:name w:decorated="1" w:val="\latex" />
+        <w:category>
+            <w:name w:val="General" />
+            <w:gallery w:val="default" />
+        </w:category>
+        <w:types>
+            <w:type w:val="autoExp" />
+            <w:type w:val="speller" />
+        </w:types>
+        <w:behaviors>
+            <w:behavior w:val="content" />
+        </w:behaviors>
+        <w:guid w:val="{6A69E954-4C52-433D-8119-890B17238562}" />
+    </w:docPartPr>
+    <w:docPartBody>
+        <w:p w:rsidR="001407B6" w:rsidRDefault="003E7E3F" w:rsidP="003E7E3F">
+            <w:pPr>
+                <w:pStyle w:val="latex" />
+            </w:pPr>
+            <w:r w:rsidRPr="00A75018">
+                <w:rPr>
+                    <w:spacing w:val="-66" />
+                </w:rPr>
+                <w:t>L</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00A75018">
+                <w:rPr>
+                    <w:caps />
+                    <w:spacing w:val="-20" />
+                    <w:position w:val="4" />
+                    <w:sz w:val="14" />
+                </w:rPr>
+                <w:t>a</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00A75018">
+                <w:rPr>
+                    <w:spacing w:val="-40" />
+                </w:rPr>
+                <w:t>T</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00A75018">
+                <w:rPr>
+                    <w:caps />
+                    <w:spacing w:val="-40" />
+                    <w:position w:val="-4" />
+                </w:rPr>
+                <w:t>e</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00A75018">
+                <w:t>X</w:t>
+            </w:r>
+        </w:p>
+    </w:docPartBody>
+</w:docPart>
+<w:docPart>
+    <w:docPartPr>
+        <w:name w:decorated="1" w:val="\wordtex" />
+        <w:category>
+            <w:name w:val="General" />
+            <w:gallery w:val="default" />
+        </w:category>
+        <w:types>
+            <w:type w:val="autoExp" />
+            <w:type w:val="speller" />
+        </w:types>
+        <w:behaviors>
+            <w:behavior w:val="content" />
+        </w:behaviors>
+        <w:guid w:val="{00741426-8706-4FE1-9B4B-BFEEEFDA37AE}" />
+    </w:docPartPr>
+    <w:docPartBody>
+        <w:p w:rsidR="001407B6" w:rsidRDefault="003E7E3F" w:rsidP="003E7E3F">
+            <w:pPr>
+                <w:pStyle w:val="wordtex" />
+            </w:pPr>
+            <w:r w:rsidRPr="008E1078">
+                <w:rPr>
+                    <w:color w:val="164592" />
+                </w:rPr>
+                <w:t>Word</w:t>
+            </w:r>
+            <w:r w:rsidRPr="008E1078">
+                <w:rPr>
+                    <w:color w:val="164592" />
+                    <w:spacing w:val="-40" />
+                </w:rPr>
+                <w:t>T</w:t>
+            </w:r>
+            <w:r w:rsidRPr="008E1078">
+                <w:rPr>
+                    <w:caps />
+                    <w:color w:val="164592" />
+                    <w:spacing w:val="-40" />
+                    <w:position w:val="-4" />
+                </w:rPr>
+                <w:t>e</w:t>
+            </w:r>
+            <w:r w:rsidRPr="008E1078">
+                <w:rPr>
+                    <w:color w:val="164592" />
+                </w:rPr>
+                <w:t>X</w:t>
+            </w:r>
+        </w:p>
+    </w:docPartBody>
+</w:docPart>
+<w:docPart>
+    <w:docPartPr>
+        <w:name w:decorated="1" w:val="\qed" />
+        <w:category>
+            <w:name w:val="General" />
+            <w:gallery w:val="default" />
+        </w:category>
+        <w:types>
+            <w:type w:val="autoExp" />
+            <w:type w:val="speller" />
+        </w:types>
+        <w:behaviors>
+            <w:behavior w:val="content" />
+        </w:behaviors>
+        <w:guid w:val="{7F83BAF3-6AA6-433D-A50E-AD4B6576EA3D}" />
+    </w:docPartPr>
+    <w:docPartBody>
+        <w:p w:rsidR="00000000" w:rsidRDefault="009222A9" w:rsidP="009222A9">
+            <w:pPr>
+                <w:pStyle w:val="qed" />
+            </w:pPr>
+            <w:r w:rsidRPr="0073455B">
+                <w:t>□</w:t>
+            </w:r>
+        </w:p>
+    </w:docPartBody>
+</w:docPart>
