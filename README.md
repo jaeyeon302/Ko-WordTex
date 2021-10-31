@@ -1,6 +1,9 @@
 # Ko-WordTex
 ![ko-wordtex](/image/abstract.png)
-LaTeX 스타일로 글을 쓸 수 있는 한국어 MS 워드 템플릿
+LaTeX 스타일로 글을 쓸 수 있는 한국어 MS 워드 템플릿  
+
+위 템플릿으로 만들어진 예제 문서는 다음의 링크에서 확인할 수 있다.  
+[Ko-WordTex-Wide-sample-pdf](./sample/Ko-WordTex%20Template(wide)%20sample.pdf), [Ko-WordTex-narrow-sample-pdf](./sample/Ko-WordTex%20Template(narrow)%20sample.pdf), [Ko-WordTex-HW-sample-pdf](./sample/Ko-WordTex%20HW%20Templage%20sample.pdf)
 
 ## 설치 방법
 1. `Fonts/en`, `Fonts/ko` 폴더에 있는 모든 글꼴을 설치한다
